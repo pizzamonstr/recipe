@@ -14,4 +14,4 @@ Kaiya Sjoholm
 Recipe created by **Joy Food Sunshine**
 https://joyfoodsunshine.com/the-most-amazing-chocolate-chip-cookies/
 
-### This is a REMOTE change :O
+![Chocolate chip cookies](recipe.jpg)
